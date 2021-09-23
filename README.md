@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and editing
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on app developemt 
-- 📫 How to reach me ... My discord ID is Sasuke Uchiha#5684
+- 📫 How to reach me ... Email - atharvmishra25@gmail.com
 
 <!---
 HuNt-stack/HuNt-stack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
